@@ -1,0 +1,20 @@
+Component Name : Component_1
+
+Part Count : 2
+
+Part : IC?
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : IC?
+     Pins - (Normal) : 8
+          OUTA           1              Passive
+          INA-           2              Passive
+          INA+           3              Passive
+          V-             4              Passive
+          INB+           5              Passive
+          INB-           6              Passive
+          OUTB           7              Passive
+          V+             8              Passive
+          Hidden Pins : 
+
